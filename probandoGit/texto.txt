@@ -1,3 +1,4 @@
 hola que tal estamos gente
 estoy probando como reacciona git
 se me olvidaba decir que estoy con wsl
+tengo 18 años estoy en ingieneria informática
