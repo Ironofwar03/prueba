@@ -11,7 +11,11 @@ p
     text-align: center; 
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif; 
+<<<<<<< HEAD
     color: rgba(220, 207, 20, 0.555);
+=======
+    color: rgba(63, 20, 220, 0.555);
+>>>>>>> cabezera
 }
 
 #contenedor
